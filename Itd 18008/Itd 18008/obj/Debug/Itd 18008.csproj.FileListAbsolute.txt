@@ -1,0 +1,6 @@
+c:\users\itd18008\documents\visual studio 2015\Projects\Itd 18008\Itd 18008\bin\Debug\Itd 18008.exe.config
+c:\users\itd18008\documents\visual studio 2015\Projects\Itd 18008\Itd 18008\obj\Debug\Itd 18008.csprojResolveAssemblyReference.cache
+c:\users\itd18008\documents\visual studio 2015\Projects\Itd 18008\Itd 18008\bin\Debug\Itd 18008.exe
+c:\users\itd18008\documents\visual studio 2015\Projects\Itd 18008\Itd 18008\bin\Debug\Itd 18008.pdb
+c:\users\itd18008\documents\visual studio 2015\Projects\Itd 18008\Itd 18008\obj\Debug\Itd 18008.exe
+c:\users\itd18008\documents\visual studio 2015\Projects\Itd 18008\Itd 18008\obj\Debug\Itd 18008.pdb
